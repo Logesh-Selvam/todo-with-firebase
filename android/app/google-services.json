@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "787727007198",
+    "project_id": "authtutorial-da688",
+    "storage_bucket": "authtutorial-da688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787727007198:android:b50e878d9b2b6d31ddb14f",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787727007198-l360gur6sv5vopa0413bek59gsins5b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEbP7GO6kSJLVtcdu8aVnVc-GO8SZF3rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787727007198-l360gur6sv5vopa0413bek59gsins5b4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787727007198-b8ogrd72epcrgp0k2s0a3f0db5unlpe0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoList.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
